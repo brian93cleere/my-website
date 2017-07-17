@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-now editing on update-readme branch
-
-update locally
+Updates made on master on GitHyb before rebase
