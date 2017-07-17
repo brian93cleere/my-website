@@ -4,8 +4,7 @@ This is a really awesome website
 
 Updates made on master on GitHyb before rebase
 
-## Repository Purpose
+Repository Purpose
 
-This will be a change tghat conflicts
-with whatever has already been changed on the remote side/site.
-This was edited locally
+This is just a readme file
+
